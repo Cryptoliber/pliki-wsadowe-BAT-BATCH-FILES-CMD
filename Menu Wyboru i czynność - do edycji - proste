@@ -3,7 +3,7 @@ color 0a
 cls
 :MENU
 @echo _____________________; ------1-KALKULATOR--\---2 - OPERA------\-----3- NOTATNIK--------------------------------
-@ECHO PRZYBORNIK MEFIANTE  ; ------4-PENDRIVE----/----5---------------------------------------------------------
+@ECHO CRYPTOLIBER  ; ------4-PENDRIVE----/----5----------------------------------------------------------------------
 @echo off
 for /F "tokens=2" %%i in ("date /t") do set mydate=%%i
 set mytime=%time%
